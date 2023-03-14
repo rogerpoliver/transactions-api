@@ -1,4 +1,12 @@
-db/
+# Databse
+db/*.db
+
+# Dependencies
 node_modules
+
+# Environment
 .env
 .env.test
+
+# Build
+dist
